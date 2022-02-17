@@ -1,0 +1,41 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    color: #BB99DD;
+    background-color: #FAF7FD;
+}
+main{
+    text-align: center;
+    width: 330px;
+    margin:80px auto 20px ;
+}
+figure{
+    margin-bottom: 10px;
+}
+.lucasfoto{
+    border: #BB99DD solid 2px;
+    border-radius: 100px;
+    padding: 4px;
+}
+button{
+    color: #BB99DD;
+    border: solid 2px #BB99DD;
+    border-radius: 6px;
+    margin: 5px 0;
+    width: 326px;
+    height: 49px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+footer{
+    width: 280px;
+    margin:0px auto;
+}
+.icons{
+    margin: 50px 20px 0px;
+}
+
+
